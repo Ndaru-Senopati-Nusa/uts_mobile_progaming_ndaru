@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">my anime list</string>
+
+    <string name="top_indo">my anime list</string>
+    <string name="description">Deskripsi</string>
+    <string name="keterangan_default">Artikel</string>
+    <string name="about">About</string>
+    <string name="nama">Ndaru Senopati Nusa</string>
+    <string name="email">senopati@std.unissula.ac.id</string>
+    <string-array name="data_name">
+        <item>One piece</item>
+        <item>Haikyu</item>
+        <item>Naruto</item>
+        <item>Dr. stone</item>
+        <item>Diamond no ace</item>
+        <item>JJK</item>
+        <item>Dragon Ball</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Gol D. Roger dikenal sebagai "Raja Bajak Laut," makhluk terkuat dan paling terkenal yang pernah berlayar di Grand Line. Penangkapan dan eksekusi Roger oleh Pemerintah Dunia membawa perubahan di seluruh dunia. Kata-kata terakhirnya sebelum kematiannya mengungkapkan keberadaan harta terbesar di dunia, One Piece. Pengungkapan inilah yang menghasilkan Grand Age of Pirates, orang-orang yang bermimpi menemukan One Piece — yang menjanjikan kekayaan dan ketenaran yang tak terbatas — dan sangat mungkin puncak kemuliaan serta gelar Raja Bajak Laut.</item>
+        <item>Sebuah kejadian yang disebabkan oleh hobbi Shouyou Hinata untuk bermain voli. Klubnya tidak memiliki anggota, tapi entah bagaimana klub itu dapat bertahan dan akhirnya berhasil masuk ke pertandingan reguler pertama di laga SMA. Tobio Kageyama, pemain superstar yang dikenal sebagai “Raja Pengadilan”. Hinata berkeninginan untuk balas dendam dan bergabung ke klub voli Karasuno. hanya untuk datang tatap muka dengan saingannya yang paling dibenci, Kageyama!</item>
+        <item>Manga Naruto bercerita seputar kehidupan tokoh utamanya, Naruto Uzumaki, seorang ninja yang hiperaktif, periang, dan ambisius yang ingin mewujudkan keinginannya untuk mendapatkan gelar Hokage, pemimpin dan ninja terkuat di desanya.</item>
+        <item>Anime fiksi ilmiah yang menceritakan perjuangan dua anak laki-laki untuk menghidupkan kembali umat manusia setelah fenomena misterius yang membuat semua orang di dunia berubah menjadi batu selama beberapa milenium.</item>
+        <item>Diamond No Ace atau Ace Of Diamong adalah anime tentang olahraga Baseball. Cerita ini berawal dari seorang murid SMP bernama Sawamura Eijun seorang Pithcer (Pelempar) dalam olahraga baseball, Sawamura bermain baseball untuk SMPnya untuk membuat kenang-kenangan maju ke tingkat nasional karena sekolah Sawamura akan dibongkar. Karena tidak memiliki pemain yang handal akhirnya tim Sawamura kalah, akan tetapi di akhir pertandingan, bakat melempar Sawamura sebagai pitcher keluar, dan hal itu membuat asisten pelatih dari SMA ternama SMA Seido.</item>
+        <item>Serial ini mengisahkan perjalanan Yuji Itadori, adalah seorang siswa SMA yang berbakat secara atletik yang tertarik dengan hal-hal berbau gaib. Suatu hari, dia dan teman-temannya menemukan artefak kuno berbentuk jari iblis di klub penelitian gaib sekolah mereka.</item>
+        <item>Dragon Ball yang tayang 1986 hingga 1986 merupakan urutan pertama yang bisa kamu tonton. Serial berjumlah 153 episode ini menceritakan tentang Son Goku, seorang anak laki-laki yang tinggal sendirian di hutan. Sampai suatu hari ia bertemu seorang gadis bernama Bulma. Keduanya pun memulai perjalanan mencari Bola Naga.</item>
+    </string-array>
+    //harus diisi
+    <string-array name="data_keterangan">
+        <item>Masukkan Monkey D. Luffy, anak laki-laki berusia 17 tahun yang menentang definisi standar Anda tentang bajak laut. Alih-alih persona populer dari desa bajak laut yang jahat, keras, dan tak bergigi untuk bersenang-senang, alasan Luffy untuk menjadi bajak laut adalah salah satu keajaiban: pikiran tentang petualangan yang mengasyikkan yang membawanya ke orang-orang yang membuat penasaran dan akhirnya, harta yang dijanjikan. Mengikuti jejak pahlawan masa kecilnya, Luffy dan kru</item>
+        <item>Haikyuu merupakan anime bergenre sport yang adaptasi dari manga (komik Jepang) karya Furudate Haruichi. Haikyuu lebih dulu populer sebagai manga tentang sekelompok siswa SMA yang menjadi atlet voli di sebuah sekolah SMA bernama SMA Karasuno. </item>
+        <item>Manga Naruto bercerita seputar kehidupan tokoh utamanya, Naruto Uzumaki, seorang ninja yang hiperaktif, periang, dan ambisius yang ingin mewujudkan keinginannya untuk mendapatkan gelar Hokage, pemimpin dan ninja terkuat di desanya.</item>
+        <item>Dr. Stone – Sebuah komik yang menceritakan masa depan bumi yang zamannya mengalami kemunduran. Komik Dr. Stone merupakan komik asal Jepang karya dari Riichiko Inagaki. Komik ini lebih menjelaskan tentang hal ilmiah yang menyebabkan bumi mengalami kemunduran.</item>
+        <item>Anime Diamond no Ace menceritakan kisah tokoh Sawamura Eijun meniti kariernya di dunia bisbol. Seperti diketahui, olahraga bisbol sangat laku di Jepang layaknya sepak bola.</item>
+        <item>Jujutsu Kaisen bercerita tentang siswa yang mendapatkan kekuatan karena menelan jari iblis. Penasaran kisah selengkapnya? Simak di sini! Jujutsu Kaisen adalah serial Jepang yang memiliki pasar internasional karena ditayangkan di Netflix.</item>
+        <item>Dragon Ball berfokus pada cerita tentang seorang bocah bernama Goku yang hidup di tengah gunung sendirian. Dia lalu bertemu dengan Bulma, seorang gadis muda genius, yang berusaha mengumpulkan 7 bola ajaib yang katanya bisa mengabulkan semua keinginan. Bola-bola tersebut dinamakan Dragon Ball.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+    </integer-array>
+
+</resources>
